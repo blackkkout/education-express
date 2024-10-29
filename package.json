@@ -1,0 +1,13 @@
+{
+  "name": "education-express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "tsx app.ts"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "mysql2": "^3.11.3",
+    "tsx": "^4.19.2"
+  }
+}
